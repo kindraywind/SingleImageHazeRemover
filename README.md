@@ -11,7 +11,7 @@ The code can be executed via `terminal`
 > ```imagename.png```
 
 ## Sample input
-![](SingleImageHazeRemover/sample/ex_input.jpg)
+![Original Image](https://github.com/kindraywind/SingleImageHazeRemover/blob/master/sample/ex_input.jpg?raw=true)
 
 ## Sample output
-![](SingleImageHazeRemover/sample/ex_output.jpg)
+![Clarified image w=0.95, t0=0.55](https://github.com/kindraywind/SingleImageHazeRemover/blob/master/sample/ex_output.jpg?raw=true)
