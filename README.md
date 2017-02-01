@@ -9,3 +9,9 @@ The code can be executed via `terminal`
 >	```python dehaze.py```
 >
 > ```imagename.png```
+
+## Sample input
+![](SingleImageHazeRemover/sample/ex_input.jpg)
+
+## Sample output
+![](SingleImageHazeRemover/sample/ex_output.jpg)
