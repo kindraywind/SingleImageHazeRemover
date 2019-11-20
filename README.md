@@ -1,5 +1,5 @@
 # Single image haze removal
-#### A Python implementation of single image haze removal
+#### A Python2 implementation of single image haze removal
 
 The propose of this repository is to implement the image haze removal base on the Zhiming Tan Et al. [paper](https://pdfs.semanticscholar.org/64ca/a24f2cb3fff6d8eb966f90078f0d0b8a7db0.pdf).
 
